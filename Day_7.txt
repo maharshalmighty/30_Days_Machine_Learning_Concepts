@@ -1,0 +1,34 @@
+🚀 Day 7 of 30 Days of Machine Learning Concepts Challenge
+Topic: Unveiling Support Vector Machines - Your Fashion Stylist for Trendy Outfits!
+Hey LinkedIn family! 👋 Welcome to Day 7 of our 30 Days of Machine Learning Concepts Challenge. Today, let's talk about Support Vector Machines (SVM), your fashion stylist for trendy outfits!
+
+🔍 Topic Overview:
+Think of SVM as your stylish buddy, helping you decide what to wear. Imagine you're prepping for a special occasion, and SVM steps in to analyze your clothes, suggesting the coolest outfits that match your style. It's like having a fashion-savvy friend who turns your wardrobe into a runway!
+
+✨ Everyday Resemblance:
+SVM is like your fashion stylist, considering your likes, body shape, and the latest trends. It guides you to outfits that showcase your unique style. It's as if you have a style expert ensuring you look great and feel confident wherever you go.
+
+💡 Why It Matters:
+SVM boosts your fashion game by giving personalized style advice. Whether it suggests the perfect shoes, helps with color combinations, or predicts upcoming trends, SVM adds a touch of glamour to your wardrobe, making every day a fashion adventure!
+
+👔 Comparison with Logistic Regression: 
+While Logistic Regression is like a friend predicting the probability of you liking a single piece, SVM, being more on the statistical side, acts as a meticulous fashion stylist. It doesn't just deal with probabilities but carefully crafts entire outfits, ensuring a stylishly distinct look. It's like upgrading from a friend's suggestions to having a personal stylist combining fashion and statistics for a cohesive and fashionable appearance! 🌟👗✨
+
+📚 Additional Resources:
+- A very simple in-depth explanation by Anshul Saini(Analytics Vidhya) (https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
+ 
+- Simple and shorter way to understand SVM by Noel Bambrick (KDNugget)(https://trendytechinsights.io/svm-fashion-applications/)
+
+👉 Up Next:
+Join us tomorrow for an exciting exploration of Unsupervised Learning methods, where the magic of clustering continues to unfold. As we embrace the style of learning, keep shining in your trendy outfits! 🚀👗✨
+
+Image used : 
+ 
+Image by <a href="https://www.freepik.com/free-vector/watercolor-wedding-landing-page_4517012.htm#query=simple%20pink%20dress&position=34&from_view=search&track=ais&uuid=f86e3422-8c53-485e-a716-629f753d0e1a">Freepik</a>
+
+ 
+Image by <a href="https://www.freepik.com/free-vector/modern-bride-dresses-watercolor_851598.htm#query=simple%20pink%20dress&position=43&from_view=search&track=ais&uuid=f86e3422-8c53-485e-a716-629f753d0e1a">Freepik</a>
+ 
+https://unsplash.com/photos/woman-in-white-blazer-and-white-pants-standing-beside-white-table-c7kxs1aA4v8
+ 
+https://unsplash.com/photos/man-in-blue-crew-neck-t-shirt-standing-beside-woman-in-white-and-blue-floral-shirt-4KRsNO9QxwM?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
