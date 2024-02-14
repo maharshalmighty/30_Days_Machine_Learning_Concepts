@@ -1,0 +1,25 @@
+🚀 Day 27 of 30 Days of Machine Learning Concepts Challenge
+Topic: Optimizing Model Training - Understanding Normalization!
+Hey LinkedIn family! 👋 Welcome to Day 27 of our 30 Days of Machine Learning Concepts Challenge. Today, let's optimize our model training process by diving into the concept of normalization.
+
+🔍 Topic Overview:
+Normalization is like ensuring that every ingredient in a recipe is of consistent quality and quantity before cooking. It standardizes the inputs to each layer of the neural network, making the training process more stable and efficient. This technique helps prevent the model from getting stuck in local minima and accelerates convergence.
+
+✨ Everyday Resemblance:
+Imagine you're baking cookies. Normalization is like measuring each ingredient precisely and adjusting the recipe accordingly to ensure that every batch of cookies turns out consistently delicious. Similarly, normalization ensures that the inputs to each layer of the neural network are consistent, leading to more reliable model performance.
+
+💡 Why Normalization Matters:
+Normalization matters because it improves the stability and speed of model training. By normalizing the inputs to each layer, it reduces the likelihood of vanishing or exploding gradients, allowing for deeper neural networks to be trained more effectively. This technique also acts as a regularizer, reducing the need for other regularization methods such as dropout.
+
+Key Normalization Concepts:
+1. Standardization: Adjusts the mean and variance of the inputs to each layer, ensuring that they have a consistent distribution.
+2. Scaling and Shifting: Introduces learnable parameters (gamma and beta) to scale and shift the normalized inputs, allowing the model to adapt to different distributions of the data.
+3. Training and Inference Modes: Normalization behaves differently during training and inference. During training, it computes batch statistics, while during inference, it uses running statistics accumulated during training.
+
+📚 Additional Resources:
+- Very well written article on Normalization with a little context of Feature Scaling and its difference with standardization by Aniruddha Bhandari (Analytics Vidhya) (https://lnkd.in/e2FbNMRY)
+- Brief article on Standardization vs Normalization and overview by JavaTpoint.com (https://lnkd.in/eqdreiH2)
+- Article that covers the different type of data and answers what and why for normalization by AlmaBetter (https://lnkd.in/ezJFD56i)
+
+👉 Up Next (Day 28):
+Explore Time Series Analysis, a powerful technique for analyzing sequential data points ordered by time. As we optimize model inputs with normalization, let's continue our journey towards building more robust and efficient machine learning models! 🚀📈✨
