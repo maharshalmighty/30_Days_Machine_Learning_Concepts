@@ -1,0 +1,29 @@
+🚀 Day 25 of 30 Days of Machine Learning Concepts Challenge
+Topic: Assessing Model Performance - Understanding Model Evaluation Metrics!
+Hey LinkedIn family! 👋 Welcome to Day 25 of our 30 Days of Machine Learning Concepts Challenge. Today, let's delve into the critical aspect of model evaluation metrics, essential tools for assessing the performance of machine learning models.
+
+🔍 Topic Overview:
+Model evaluation metrics are like the scorecard of a sports game, providing insights into the performance of different teams. They quantify how well our machine learning models are performing, allowing us to make informed decisions and improvements. 
+
+✨ Everyday Resemblance:
+Imagine model evaluation metrics as report cards for students. Just as grades reflect a student's performance in various subjects, evaluation metrics reflect the performance of our models across different aspects such as accuracy, precision, recall, and more.
+
+💡 Why Model Evaluation Metrics Matter:
+Model evaluation metrics matter because they provide actionable insights into the strengths and weaknesses of our machine learning models. By understanding these metrics, we can identify areas for improvement, fine-tune our models, and ultimately build more effective and reliable systems.
+
+Key Model Evaluation Metrics :
+1. Accuracy: Measures the overall correctness of predictions made by the model. It's a simple ratio of correctly predicted instances to the total instances.
+2. Precision: Measures the proportion of true positive predictions among all positive predictions made by the model. It indicates how many of the predicted positive instances are actually positive.
+3. Recall (Sensitivity): Measures the proportion of true positive predictions among all actual positive instances in the dataset. It indicates how many of the actual positive instances were captured by the model.
+4. F1 Score: Harmonic mean of precision and recall, providing a balance between the two metrics. It's useful when the class distribution is imbalanced.
+5. ROC-AUC (Receiver Operating Characteristic - Area Under Curve): Measures the trade-off between true positive rate and false positive rate across different threshold values. It's a useful metric for evaluating binary classification models.
+6. Confusion Matrix: Provides a tabular representation of model predictions versus actual values, facilitating a deeper understanding of model performance. It breaks down the performance of the model across different classes, showing true positives, true negatives, false positives, and false negatives.
+
+📚Additional Resources:
+- In depth guide on 11 evaluation metrices by Tavish Srivastava (Analytics Vidhya) (https://lnkd.in/e9jy4a8s)
+- Covers 5 evaluation metrices by GeeksforGeeks (https://lnkd.in/eZ8CbvUg)
+
+👉 Up Next (Day 26):
+Up next Cross Validation🚀📊✨
+
+Image by SHUBHAM SHANKAR
